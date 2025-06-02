@@ -21,8 +21,8 @@ public class AutomovilA {
         auto.mostrarAtributos();
         auto.tiempoEstimado();
         auto.acelerar(20);
-
         auto.desacelerar(50);
+        auto.frenar();
 
     }
 }
